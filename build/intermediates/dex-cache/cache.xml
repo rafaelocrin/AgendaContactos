@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_ed241d34ad7d0717de33000f0df2430cfb255dfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_a68b80fc3bd2545612b162f6eb2061969fe9d8d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="72ca1a701c444f1ff9f5e7222962444cd0c77fce">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_89334a88de2054943d6d20dc8567418c34a76e0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5d0fb6eea28cb8c8db3e3394d17c89fc2fc54fd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6db60ca0076bc7af77410ec5d186193ac746d730/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_ef3b63624db926d5c7084638936b50ccacf62842/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c2048da4db9ca20bb3f798636af22473944dfe6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_c036abf47e9fc15d3c271d5a8fd030dfad09157c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_b65f57a6931e1237ffd6e8db2b22e09ddcd93946/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2d3feda8ea9fb13a7eb352b3ed3709c3a0a807cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="558a98527ff9875f78ba31c98a6dfac1e9d36040">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2375b2b1c58a5e9acc118fc73a67917a14d78d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_bc6a0f64b3d97f47ff57f3378c8f1ef9b8172dcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_19124bc6d224424d5d61a289ef97ae549793cbf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5c1167dddf7be1cf8f27185b6f1a244f97da0454/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_e4f3a571005d9629a5c6652e5d9ebd3bbe059be5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_adb0abe7099b8d913ff5f1706c59c84b2c905243/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso3/Semana2/AgendaContactos/AgendaContactos/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_f4763f10805c8ef803e2a564879c89db7d612892/classes.dex" />
+    </item>
+
+</items>
